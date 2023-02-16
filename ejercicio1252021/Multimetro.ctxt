@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Multimetro
+comment1.params=
+comment1.target=Multimetro()
+comment2.params=Marca\ Color\ Tipo
+comment2.target=Multimetro(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

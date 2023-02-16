@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Profe
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Profe\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Nombre\ Apellido\ Ed
+comment1.target=Profe(java.lang.String,\ java.lang.String,\ int)
+comment2.params=Cas\ Esp
+comment2.target=Profe(boolean,\ boolean)
+comment3.params=
+comment3.target=void\ Consulta()
+comment4.params=Cas\ Esp
+comment4.target=void\ Consulta(boolean,\ boolean)
+numComments=5
